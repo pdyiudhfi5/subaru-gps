@@ -25,4 +25,4 @@ html_context = {
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://subaru-gsp.readthedocs.io/en/latest/'
+html_baseurl = 'https://guide-subarugps.readthedocs.io/en/latest/'
