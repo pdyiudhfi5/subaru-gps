@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://subaru-gps.readthedocs.io/en/latest/
